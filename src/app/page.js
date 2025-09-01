@@ -1,4 +1,4 @@
-import HomePage from 'src/data/projectData';
+import HomePage from '@/data/projectData';
 
 export default function Home() {
   return (
